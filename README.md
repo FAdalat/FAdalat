@@ -12,7 +12,7 @@
 [![IELTS](https://img.shields.io/badge/IELTS_Academic-Band_7.0-0F6E56?style=flat-square&logo=bookstack&logoColor=white)](.)
 [![SAT](https://img.shields.io/badge/SAT-1350-534AB7?style=flat-square&logo=pencil&logoColor=white)](.)
 [![GPA](https://img.shields.io/badge/GPA-5.0_/_5.0_×_3_years-BA7517?style=flat-square&logo=star&logoColor=white)](.)
-[![Email](https://img.shields.io/badge/Email-adalatfaracov008@gmail.com-888780?style=flat-square&logo=gmail&logoColor=white)](mailto:adalatfaracov008@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adalatfaracov229@gmail.com-888780?style=flat-square&logo=gmail&logoColor=white)](mailto:adalatfaracov229@gmail.com)
 
 </div>
 
@@ -81,8 +81,6 @@ Led a 5-person team end-to-end: task allocation, technical architecture, system 
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
@@ -95,15 +93,8 @@ Led a 5-person team end-to-end: task allocation, technical architecture, system 
 
 **Design & 3D**
 
-![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat-square&logo=blender&logoColor=F5792A)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-0d1117?style=flat-square&logo=printables&logoColor=FA6831)
-
-**Software & Game Dev**
-
-![Unity](https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=flat-square&logo=hackthebox&logoColor=9FEF00)
-
 </div>
 
 ---
@@ -188,15 +179,6 @@ Led full 3D printing workflow — Blender → Shapr3D → FlashPrint → output.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=aaaaaa&bg_color=0d1117&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=aaaaaa&bg_color=0d1117)
-
-</div>
 
 ---
 
